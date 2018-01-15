@@ -583,7 +583,8 @@ textarea::-ms-input-placeholder
     background-color: transparent;
 }
 .navbar-brand{
-	margin-top:-5px;	
+    width: 155px;
+    margin-top: -15px;
 }
 
 
