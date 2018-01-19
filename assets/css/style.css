@@ -219,6 +219,7 @@ p:last-child {
     transition: all 300ms linear;
 }
 
+
 .line_bottom{
     border-bottom: solid 2px #565656;
     width: 80%;
@@ -679,6 +680,7 @@ textarea::-ms-input-placeholder
     margin-top:10%;
 }
 
+
 .single_features_right h1 {
 	margin-bottom: 40px;
     font-size:45px;
@@ -787,6 +789,7 @@ textarea::-ms-input-placeholder
     padding: 2px;
     border-radius: 50em;
     background:#9e9e9e94;
+
 }
 .cd-pricing-switcher input[type="radio"] {
     position: absolute;
